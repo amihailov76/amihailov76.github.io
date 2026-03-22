@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Александр Михайлов</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Александр Михайлов</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 22 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLM-вики против техписа: эксперимент с DeepWiki</title>
+      <link>http://localhost:1313/blog/deepwiki-experiment/</link>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/deepwiki-experiment/</guid>
+      <description>Опробовал на себе DeepWiki — сервис который автоматически документирует репозитории с кодом. Делюсь впечатлениями.</description>
+    </item>
+    <item>
+      <title>Контакты</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;связаться-со-мной&#34;&gt;Связаться со мной&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/amihailov/&#34;&gt;linkedin.com/in/amihailov&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Telegram-канал:&lt;/strong&gt; &lt;a href=&#34;https://t.me/positive_write_channel&#34;&gt;positive_write_channel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Обо мне</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;опыт-работы&#34;&gt;Опыт работы&lt;/h2&gt;
+&lt;h3 id=&#34;positive-technologies--руководитель-команды-технических-писателей&#34;&gt;Positive Technologies — руководитель команды технических писателей&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;настоящее время&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Руковожу командой технических писателей в российской ИБ-компании B2B-сегмента (2000+ сотрудников).
+Команда поддерживает документацию и UI-тексты для 30+ продуктов компании.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.ptsecurity.com/ru-RU/projects&#34;&gt;Публичный портал документации&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://t.me/positive_write_channel&#34;&gt;ТГ-канал писателей и локализаторов Positive Technologies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;лаборатория-касперского--ведущий-технический-редактор&#34;&gt;Лаборатория Касперского — ведущий технический редактор&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;ранее&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Редактировал технические документы и UI-тексты, развивал стайлгайды и писательскую экспертизу внутри компании.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;профессиональные-интересы&#34;&gt;Профессиональные интересы&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Новые инструменты, решения и идеи для управления контентом&lt;/li&gt;
+&lt;li&gt;AI-трансформация роли технических писателей: риски и возможности&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Портфолио</title>
+      <link>http://localhost:1313/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>&lt;p&gt;Проекты и инициативы в области технической документации и управления контентом.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;портал-документации-positive-technologies&#34;&gt;Портал документации Positive Technologies&lt;/h2&gt;
+&lt;p&gt;Публичный портал технической документации для 30+ продуктов компании.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Роль:&lt;/strong&gt; руководитель команды, архитектура контента, выстраивание процессов&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://help.ptsecurity.com/ru-RU/projects&#34;&gt;Открыть портал →&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;тг-канал-писателей-positive-technologies&#34;&gt;ТГ-канал писателей Positive Technologies&lt;/h2&gt;
+&lt;p&gt;Публичный Telegram-канал сообщества технических писателей и локализаторов компании.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Роль:&lt;/strong&gt; со-автор и куратор&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://t.me/positive_write_channel&#34;&gt;Перейти в канал →&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;стайлгайды-и-писательская-экспертиза&#34;&gt;Стайлгайды и писательская экспертиза&lt;/h2&gt;
+&lt;p&gt;Разработка и развитие стайлгайдов для технической документации и UI-текстов в Лаборатории Касперского и Positive Technologies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Резюме</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/files/resume.pdf&#34; download class=&#34;resume-download-btn&#34;&gt;Скачать резюме (PDF)&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;александр-михайлов&#34;&gt;Александр Михайлов&lt;/h2&gt;
+&lt;p&gt;Руководитель отдела разработки документации · 15 лет в технической документации&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/amihailov/&#34;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&#34;https://help.ptsecurity.com/ru-RU/projects&#34;&gt;Портал документации PT&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;опыт-работы&#34;&gt;Опыт работы&lt;/h2&gt;
+&lt;h3 id=&#34;positive-technologies&#34;&gt;Positive Technologies&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Москва · Гибридный формат · 9 лет 8 мес.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Руководитель отдела разработки документации&lt;/strong&gt;
+&lt;em&gt;авг. 2025 — настоящее время&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Руководитель отдела управления контентом&lt;/strong&gt;
+&lt;em&gt;авг. 2016 — авг. 2025&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Руковожу командой технических писателей и редакторов. Цель команды — поддержать внедрение продуктов компании (ИБ, B2B-сегмент) актуальной и эффективной документацией. Команда создала справку и UI-тексты для более чем 30 продуктов Positive Technologies.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

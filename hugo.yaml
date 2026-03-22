@@ -1,0 +1,81 @@
+baseURL: https://amihailov76.github.io/
+title: Александр Михайлов
+theme: PaperMod
+
+defaultContentLanguage: ru
+defaultContentLanguageInSubdir: false
+
+enableRobotsTXT: true
+enableGitInfo: false
+
+taxonomies:
+  tag: tags
+  category: categories
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+languages:
+  ru:
+    languageName: Русский
+    title: Александр Михайлов
+    contentDir: content/ru
+    weight: 1
+    params:
+      description: Личный сайт Александра Михайлова
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: tango
+
+params:
+  author: Александр Михайлов
+  defaultTheme: auto
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowToc: false
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    minMatchCharLength: 2
+    threshold: 0.4
+
+  socialIcons:
+    - name: linkedin
+      url: https://www.linkedin.com/in/amihailov/
+    - name: telegram
+      url: https://t.me/positive_write_channel
+
+menu:
+  main:
+    - name: Обо мне
+      url: /about/
+      weight: 1
+    - name: Портфолио
+      url: /portfolio/
+      weight: 2
+    - name: Блог
+      url: /blog/
+      weight: 3
+    - name: Резюме
+      url: /resume/
+      weight: 4
+    - name: Контакты
+      url: /contact/
+      weight: 5
+    - name: Поиск
+      url: /search/
+      weight: 6
+
+server:
+  bind: "0.0.0.0"

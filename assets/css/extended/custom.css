@@ -1,0 +1,103 @@
+/* Кнопка скачивания резюме */
+.resume-download-btn {
+    display: inline-block;
+    margin-bottom: 2rem;
+    padding: 0.6rem 1.4rem;
+    background: var(--primary);
+    color: var(--theme) !important;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    font-weight: 500;
+    text-decoration: none !important;
+    transition: opacity 0.2s;
+}
+
+.resume-download-btn:hover {
+    opacity: 0.85;
+}
+
+
+.home-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    box-sizing: border-box;
+
+    /* Вырываемся за пределы .main (max-width: 748px, padding: 14px) */
+    width: 1052px;
+    max-width: 100vw;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    margin-left: calc(-1 * (1052px - 100%) / 2);
+    padding: 0;
+}
+
+.home-text {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding-left: 0;
+}
+
+.home-title {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 0;
+}
+
+.home-subtitle {
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin: 0;
+    color: var(--secondary);
+}
+
+.home-social {
+    display: flex;
+    gap: 1rem;
+    margin-top: 0.5rem;
+}
+
+.home-social a {
+    color: var(--primary);
+    opacity: 0.7;
+    transition: opacity 0.2s;
+}
+
+.home-social a:hover {
+    opacity: 1;
+}
+
+.home-photo {
+    flex-shrink: 0;
+}
+
+.home-photo img {
+    width: 392px;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+}
+
+/* Адаптив */
+@media (max-width: 768px) {
+    .home-container {
+        flex-direction: column-reverse;
+        margin: 2rem auto;
+    }
+    .home-photo img {
+        width: 100%;
+    }
+    .home-text {
+        text-align: center;
+        align-items: center;
+    }
+}
+
+
+
+
